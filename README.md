@@ -24,6 +24,7 @@ MLST (Multilocus Sequence Typing) is used to classify bacterial strains by seque
    ```
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/cf4ab5c6-a8fd-4df5-89ef-c0f39a9ed8d3">
 
+
 ## How to Run:
 To run MLST on an assembled genome:
 ```
