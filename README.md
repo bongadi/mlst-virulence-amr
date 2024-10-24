@@ -48,11 +48,17 @@ Abricate is a tool used to scan bacterial genome assemblies (in FASTA format) fo
    ```
    conda activate abricate_env
    ```
+   <img width="620" alt="image" src="https://github.com/user-attachments/assets/587f8d59-06f3-41e2-89da-2a3406fd847f">
+
 
 3. Install Abricate:
    ```
+   <img width="474" alt="image" src="https://github.com/user-attachments/assets/7c58a4a6-887f-46bd-9900-5316c60d8c04">
+
    conda install -c bioconda abricate
    ```
+   <img width="422" alt="image" src="https://github.com/user-attachments/assets/e45292cc-cec3-4a7a-809a-4655f543e7b2">
+
 
 ## How to Run:
 To detect virulence genes:
@@ -68,6 +74,9 @@ To detect AMR genes:
 ```
 abricate --db resfinder <assembly_file.fasta>
 ```
+<img width="813" alt="image" src="https://github.com/user-attachments/assets/066fae91-7d2a-4f9a-8a89-7d2ba1bbcd91">
+
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/e9be9233-d03f-4ade-a1a7-40e708a9bdc3">
 
 ---
 
