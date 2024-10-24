@@ -33,11 +33,11 @@ Example:
 ```
 mlst sample_assembly.fasta
 ```
-<img width="615" alt="image" src="https://github.com/user-attachments/assets/43b99ec6-1f94-42d1-9f09-29e0d322c475">
+ <img width="615" alt="image" src="https://github.com/user-attachments/assets/43b99ec6-1f94-42d1-9f09-29e0d322c475">
 
-<img width="587" alt="image" src="https://github.com/user-attachments/assets/eb47f511-63c4-4f6e-ba4f-fc82d5f37ee7">
+ <img width="587" alt="image" src="https://github.com/user-attachments/assets/eb47f511-63c4-4f6e-ba4f-fc82d5f37ee7">
 
-<img width="607" alt="image" src="https://github.com/user-attachments/assets/7491b685-864f-448a-a979-3d15857139a3">
+ <img width="607" alt="image" src="https://github.com/user-attachments/assets/7491b685-864f-448a-a979-3d15857139a3">
 
 
 ---
