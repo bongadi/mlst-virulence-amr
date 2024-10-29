@@ -63,8 +63,10 @@ Abricate is a tool used to scan bacterial genome assemblies (in FASTA format) fo
 
 3. Install Abricate:
    ```
-     <img width="474" alt="image" src="https://github.com/user-attachments/assets/7c58a4a6-887f-46bd-9900-5316c60d8c04">
+       
 
+  <img width="474" alt="image" src="https://github.com/user-attachments/assets/7c58a4a6-887f-46bd-9900-5316c60d8c04">
+  
    conda install -c bioconda abricate
    ```
     <img width="422" alt="image" src="https://github.com/user-attachments/assets/e45292cc-cec3-4a7a-809a-4655f543e7b2">
