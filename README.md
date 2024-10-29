@@ -69,6 +69,31 @@ Abricate is a tool used to scan bacterial genome assemblies (in FASTA format) fo
    ```
     <img width="422" alt="image" src="https://github.com/user-attachments/assets/e45292cc-cec3-4a7a-809a-4655f543e7b2">
 
+1.   **Plasmidfinder:**  Identifies plasmid replicon types within bacterial genomes, specifically by searching for known plasmid replicon sequences
+
+2.   **Ecoli_vf:**   Used to identify genes associated with pathogenicity in E. coli strains, helping to distinguish between pathogenic and non-pathogenic strains and 
+     aiding in epidemiological investigations of infections.
+
+3.   **Resfinder:**  Identifies acquired antimicrobial resistance (AMR) genes within bacterial genomes. ResFinder can detect genes responsible for resistance to various 
+     antibiotics, such as beta-lactams, aminoglycosides, and tetracyclines
+
+4.   **Card:**   (Comprehensive Antibiotic Resistance Database): a comprehensive resource that provides detailed information on AMR genes and mutations. It includes data on 
+     gene ontology, resistance mechanisms, and drug targets
+ 
+5.   **vfdb:**    used to identify genes associated with virulence in various pathogens, aiding in the understanding of bacterial pathogenesis and the development of 
+     interventions.
+
+6.   **Megares:** (Microbial Ecology Group Antibiotic Resistance) allows researchers to detect and quantify resistance genes from metagenomic data, which is useful for 
+     studying AMR in complex microbiomes, like environmental or gut microbiomes
+
+7.   **Argannot:** (Antibiotic Resistance Gene-ANNOTation) used for detecting and categorizing antibiotic resistance genes in genomic data and supports efforts to track the 
+     spread of resistance in microbial populations.
+
+8.   **ncbi:**   (NCBI AMR database) provides a resource for resistance gene annotation and supports efforts in tracking the distribution and evolution of resistance genes 
+     across diverse bacterial taxa.
+
+9.   **Ecoh:**  Focused on detecting virulence and resistance genes within Escherichia coli and related species
+
 
 ## How to Run:
 To detect virulence genes:
